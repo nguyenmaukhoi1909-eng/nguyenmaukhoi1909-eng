@@ -16,11 +16,11 @@
 - **Tools:** Git, GitHub, Quartus II, Arduino, VS Code
 
 ## 📬 How to reach me
-- 📧 Email: [Địa chỉ Gmail cá nhân của bạn]
-- 🔗 LinkedIn: [Link của bạn nếu có]
-
+- 📧 Email: nguyenmaukhoi1909@gmail.com
+- 🔗 LinkedIn:
 ---
-*“The best way to predict the future is to create it.”*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TênUsernameCủaBạn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TênUsernameCủaBạn&layout=compact&theme=radical)
 <!--
 **nguyenmaukhoi1909-eng/nguyenmaukhoi1909-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
